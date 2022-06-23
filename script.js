@@ -1,5 +1,5 @@
-function calc () {
-  alert ("My name is Tope Yusuff, I am 5ft8in tall, and I am a Nigerian.");
-}
-
-calc ()
+const firstName = "Temitope";
+const lastName = "Yusuff";
+const myHeight = "5ft8in"
+const myCountry = "Nigerian"
+console.log(`My name  is ${firstName} ${lastName}, I am ${myHeight}, and I am ${myCountry}`);
